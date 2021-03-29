@@ -1,1 +1,1 @@
-# Bus-managment-system
+# Hotel-managment-system
